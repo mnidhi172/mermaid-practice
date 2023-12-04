@@ -5,7 +5,7 @@
 sequenceDiagram
     participant User
     participant ECommercePlatform
-    participant ApiGateway
+    participant ApiGateway Updated
     participant UserAuth
     participant PaymentMethod
     participant OrderValidation
